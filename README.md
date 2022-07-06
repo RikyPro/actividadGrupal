@@ -1,0 +1,2 @@
+# actividadGrupal
+Práctica guiada
